@@ -1,2 +1,3 @@
 # Restaurant_Chain_PerformanceAnalysis
-interactive dashboard provides a comprehensive analysis of branch performance, focusing  on key metrics such as customer satisfaction, revenue, and expenses. 
+Data Validation and Dashboard Creation
+Firstly I ensured the data integrity and validity before performing any analysis to guarantee accurate and reliable insights. After thorough validation, I developed a dynamic and interactive Excel dashboard to visualize key metrics effectively, enabling clear and actionable data-driven decisions.
